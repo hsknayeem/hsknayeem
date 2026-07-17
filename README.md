@@ -3,6 +3,6 @@ Hi there 👋, Welcome! Hello 👋 My name is Sheikh Nayeem Hossain. Currently p
 <!-- Added C, C++, Python, Java, and JetBrains tools (CLion, PyCharm, IntelliJ IDEA) -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,clion,pycharm,idea,vscode,git,github,mysql,oracle sql developer,postgresql,sqlite" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,clion,pycharm,idea,vscode,git,github,mysql" alt="My Skills" />
   </a>
 </p>
